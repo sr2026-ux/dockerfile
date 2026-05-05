@@ -1,4 +1,4 @@
-FROM registry.access.redhat.com/hi/python:latest
+FROM quay.io/sanjuraj_rh/python-3
 
 WORKDIR /usr/src/app
 
