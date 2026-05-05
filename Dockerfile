@@ -1,4 +1,4 @@
-FROM registry.redhat.io/rhel9/python-312
+FROM registry.redhat.io/rhel9/python-311:1-1777884223
 
 WORKDIR /usr/src/app
 
